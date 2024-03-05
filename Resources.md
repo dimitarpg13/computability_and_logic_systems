@@ -34,6 +34,8 @@
 
 [On General Purpose Unifying Automata, D.L. Szekely, Notre Dame Journal of Formal Logic, 1967](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/On_General_Purpose_Unifiying_Automata_Szekely_NDJFL_1967.pdf)
 
+[A $n log n$ Alogrithm for Minimizing the States in Finite Automaton, J. Hopcroft, 1971 ](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/An_n_log_n_Algorithm_for_Minimizing_States_in_Finite_Automaton_Hopcroft_1971_CS-TR-71-190.pdf)
+
 [Describing an Algorithm by Hopcroft, David Gries, TR 72-151, 1972](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/Describing_an_Algorithm_byHopcroft_D_Gries_1972.pdf)
 
 [On Time Versus Space, John Hopcroft, Leslie Valiant, Cornell U., 1977](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/On_Time_vs_Space_Hopcroft_Paul_Valiant_1977.pdf)
