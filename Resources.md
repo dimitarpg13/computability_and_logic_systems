@@ -11,3 +11,5 @@
 [Automata, Computability and Complexity: Theory and Applications, Elaine Rich, 2019](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/Automata_Computability_and_Complexity-Theory_and_Applications_Rich_2019.pdf)
 
 [Introduction to Automata Theory, Languages and Computation, 2 edition, John Hopcroft, Rajeev Motwani, Jeffrey Ullman, 2001](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/Intro_to_Automata_Theory_Languages_and_Computation_Hopcroft-Motwani-Ullman-2001.pdf)
+
+[Formal Languages and Their Relation to Automata, John Hopcroft, Jeffrey Ullman, 1969](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/formal-languages-and-their-relation-to-automata-john-e-hopcroft-jeffrey-d-ullman_1969.pdf)
