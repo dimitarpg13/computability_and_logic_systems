@@ -33,3 +33,5 @@
 [An Approach to Unified Theory of Automata, J. Hopcroft, J. Ullman, 1967](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/An_Approach_to_Unified_Theory_of_Automata_Hopcroft_Ullman_1967.pdf)
 
 [On General Purpose Unifying Automata, D.L. Szekely, Notre Dame Journal of Formal Logic, 1967](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/On_General_Purpose_Unifiying_Automata_Szekely_NDJFL_1967.pdf)
+
+[Describing an Algorithm by Hopcroft, David Gries, TR 72-151, 1972](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/Describing_an_Algorithm_byHopcroft_D_Gries_1972.pdf)
