@@ -13,3 +13,5 @@
 [Introduction to Automata Theory, Languages and Computation, 2 edition, John Hopcroft, Rajeev Motwani, Jeffrey Ullman, 2001](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/Intro_to_Automata_Theory_Languages_and_Computation_Hopcroft-Motwani-Ullman-2001.pdf)
 
 [Formal Languages and Their Relation to Automata, John Hopcroft, Jeffrey Ullman, 1969](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/formal-languages-and-their-relation-to-automata-john-e-hopcroft-jeffrey-d-ullman_1969.pdf)
+
+[Foundations of Data Science, Avrim Blum, John Hopcroft, Ravindran Kannan, 2018](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/Foundations_of_Data_Science_Blum_Hopcroft_Kannan_2018.pdf)
