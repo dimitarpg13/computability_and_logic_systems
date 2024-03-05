@@ -24,6 +24,9 @@
 
 [Compilers: Principles, Techniques and Tools, 2nd edition, Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman, 2006](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/Compilers-Principles_Techniques_and_Tools-Aho_Lam_Sethi_Uhlman_2006.pdf)
 
+[The Complexity of Boolean Functions, Ingo Wegener, 1987](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/ComplexityOfBooleanFunctionsWegener.pdf)
+
+
 ## Articles
 
 [Computing Machinery and Intelligence, A. Turing, 1951](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/ComputingMachineryAndIntelligenceTuring1951.pdf)
@@ -42,4 +45,3 @@
 
 [An $n^{5/2}$ Algorithm for Maximum Matching in Bipartite Graphs, J. Hopcroft, R. Carp, SIAM J. Comput, 1973](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/Hopcroft-Karp-bipartite-matching_SIAM_1973.pdf)
 
-[The Complexity of Boolean Functions, Ingo Wegener, 1987](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/ComplexityOfBooleanFunctionsWegener.pdf)
