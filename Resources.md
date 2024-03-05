@@ -26,4 +26,6 @@
 
 ## Articles
 
+[Computing Machinery and Intelligence, A. Turing, 1951](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/ComputingMachineryAndIntelligenceTuring1951.pdf)
+
 [Three Models for the Description of Language, Noam Chomsky, MIT, 1956](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/ThreeModelsForTheDescriptionOfLanguageChomsky.pdf)
