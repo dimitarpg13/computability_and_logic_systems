@@ -19,3 +19,5 @@
 [Computational Complexity, Christos Papadimitriou, UC San Diego, 1994](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/Computational_Complexity_Papadimitriu_1994.pdf)
 
 [Computability and Logic, Fifth Edition, George Boolos, J. Burgess, R. Jeffrey, 2007](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/George_S_Boolos_John_P_Burgess_Richard_C_Jeffrey_Computability_and_Logic_5Ed_Cambridge_2007.pdf)
+
+[Programming Language Theory and its Implementation, Michael J.C. Gordon, 1998](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/Programming_Language_Theory_Gordon_1998.pdf)
