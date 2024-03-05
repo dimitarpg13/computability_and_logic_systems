@@ -23,3 +23,7 @@
 [Programming Language Theory and its Implementation, Michael J.C. Gordon, 1998](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/Programming_Language_Theory_Gordon_1998.pdf)
 
 [Compilers: Principles, Techniques and Tools, 2nd edition, Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman, 2006](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/Compilers-Principles_Techniques_and_Tools-Aho_Lam_Sethi_Uhlman_2006.pdf)
+
+## Articles
+
+[Three Models for the Description of Language, Noam Chomsky, MIT, 1956](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/ThreeModelsForTheDescriptionOfLanguageChomsky.pdf)
