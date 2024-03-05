@@ -17,3 +17,5 @@
 [Foundations of Data Science, Avrim Blum, John Hopcroft, Ravindran Kannan, 2018](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/Foundations_of_Data_Science_Blum_Hopcroft_Kannan_2018.pdf)
 
 [Computational Complexity, Christos Papadimitriou, UC San Diego, 1994](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/Computational_Complexity_Papadimitriu_1994.pdf)
+
+[Computability and Logic, Fifth Edition, George Boolos, J. Burgess, R. Jeffrey, 2007](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/George_S_Boolos_John_P_Burgess_Richard_C_Jeffrey_Computability_and_Logic_5Ed_Cambridge_2007.pdf)
