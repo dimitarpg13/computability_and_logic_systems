@@ -1,6 +1,6 @@
 # Computability, Automata, Logic Systems, Formal Grammars and Theory of Parsing
 
-This repository is a work in progress. 
+This repository is a work in progress. The repo will be updated regularly.
 
 ## Relevant Work 
  
