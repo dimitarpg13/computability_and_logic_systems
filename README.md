@@ -1,5 +1,7 @@
 # Computability, Automata, Logic Systems, Formal Grammars and Theory of Parsing
 
+This repository is a work in progress. 
+
 ## Relevant Work 
  
  * [Reinforcement Learning and Game Theory](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/ReinforcementLearningAndGameTheoryResources.md)
