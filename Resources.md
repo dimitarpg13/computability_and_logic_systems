@@ -32,6 +32,8 @@
 
 [Computing Machinery and Intelligence, A. Turing, 1951](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/ComputingMachineryAndIntelligenceTuring1951.pdf)
 
+[The Entsheidungsproblem and Alan Truning, L. Broadkomb, 2019](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/The_Entscheidungsproblem_and_Alan_Turing_Brodkorb_2019.pdf)
+
 [Three Models for the Description of Language, Noam Chomsky, MIT, 1956](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/ThreeModelsForTheDescriptionOfLanguageChomsky.pdf)
 
 [An Approach to Unified Theory of Automata, J. Hopcroft, J. Ullman, 1967](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/An_Approach_to_Unified_Theory_of_Automata_Hopcroft_Ullman_1967.pdf)
