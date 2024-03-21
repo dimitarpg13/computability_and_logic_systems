@@ -48,3 +48,5 @@
 
 [An $n^{5/2}$ Algorithm for Maximum Matching in Bipartite Graphs, J. Hopcroft, R. Carp, SIAM J. Comput, 1973](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/Hopcroft-Karp-bipartite-matching_SIAM_1973.pdf)
 
+[An Introduction to Proof Theory, Samuel R. Buss, 1998](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/An_Introduction_to_Proof_Theory_Buss_1998.pdf)
+
