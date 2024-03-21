@@ -28,6 +28,8 @@
 
 [The Annotated Turning: A Guided Tour through Alan Turing's Historic Paper on Computability and Turing Machine, Charles Petzold, 2008](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/The_Annotated_Turing_Petzold_2008.pdf)
 
+[Types and Programming Languages, Benjamin C. Pierce, 2002](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/Types_and_Programming_Languages_Pierce_2002.pdf)
+
 ## Articles
 
 [Computing Machinery and Intelligence, A. Turing, 1951](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/ComputingMachineryAndIntelligenceTuring1951.pdf)
