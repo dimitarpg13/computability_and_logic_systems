@@ -34,6 +34,8 @@
 
 [An Unsolvable Problem of Elementary Number Theory, Alonzo Church, AJM, Vol. 52, No. 2, 1936](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/logic_systems/An_Unsolvable_Problem_of_Elementary_Number_Theory_Church_1938.pdf)
 
+[On Formally Undecidable Propositions of Principia Mathematica and Related Systems, Kurt Goedel, 1962](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/logic_systems/Kurt_Goedel_On_Formally_Undecidable_Propositions_of_Principia_Mathematica_and_Related_Systems_1992.pdf)
+
 [Computing Machinery and Intelligence, A. Turing, 1951](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/ComputingMachineryAndIntelligenceTuring1951.pdf)
 
 [The Entsheidungsproblem and Alan Truning, L. Broadkomb, 2019](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/The_Entscheidungsproblem_and_Alan_Turing_Brodkorb_2019.pdf)
