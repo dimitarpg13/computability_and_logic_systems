@@ -64,3 +64,4 @@
 
 [The Mechanisation of Mathematics, Michael Beeson, 2004](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/The_Mechanization_of_Mathematics_Beeson_2004.pdf)
 
+[Hardness vs Randomness, Noam Nisan, Avi Wigderson, Hebrew University of Jerusalem, 1994](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/Hardness_vs_Randomness_Nisan_and_Wigderson_1994.pdf)
