@@ -66,7 +66,17 @@
 
 [Hardness vs Randomness, Noam Nisan, Avi Wigderson, Hebrew University of Jerusalem, 1994](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/Hardness_vs_Randomness_Nisan_and_Wigderson_1994.pdf)
 
-### The Busy Beaver Challenge
+### The Halting Problem and The Busy Beaver Challenge
+
+[The Halting Problem, Wikipedia](https://en.wikipedia.org/wiki/Halting_problem) 
+
+[Busy Beaver](https://en.wikipedia.org/wiki/Busy_beaver)
+
+[How the Slowest Computer Programs Illuminate Math’s Fundamental Limits, John Pavlus, 2020](https://www.quantamagazine.org/how-the-slowest-computer-programs-illuminate-maths-fundamental-limits-20201210/)
+
+[On non-computable functions, Tibor Rado, 1961](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/Rado_on_non-computable_functions_1961.pdf)
+
+[The Busy Beaver Frontier, Scott Aaronson, 2020](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/BusyBeaver_Aaronson_2020.pdf)
 
 The Busy Beaver challenge story: https://bbchallenge.org/story
 
@@ -75,6 +85,8 @@ The five state Busy Beaver champion: [link](https://bbchallenge.org/1RB1LC_1RC1R
 The BB(5) solution: https://github.com/ccz181078/Coq-BB5/tree/main
 
 Turing machine simulator: https://turingmachine.io/
+
+BB(27) code - code for a 27-rule Turing machine that halts if — and only if — the Goldbach conjecture is false; github link [here](https://gist.github.com/anonymous/a64213f391339236c2fe31f8749a0df6)
 
 ### Coq resources
 
