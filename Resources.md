@@ -32,6 +32,10 @@
 
 [Types and Programming Languages, Benjamin C. Pierce, 2002](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/Types_and_Programming_Languages_Pierce_2002.pdf)
 
+[The Undecidable: Basic Papers on Undecidable Propositions, Unsolvable Problems and Computable Functions, M. Davis, 1965](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/The_Undecidable_Basic_Papers_on_Undecidable_Propositions_Unsolvable_Problems_and_more_Davis_1965.pdf)
+
+[Computability and Unsolvability, M. Davis, 1956](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/Computability_and_Unsolvability_Martin_Davis_1956.pdf)
+
 ## Articles
 
 [An Unsolvable Problem of Elementary Number Theory, Alonzo Church, AJM, Vol. 52, No. 2, 1936](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/logic_systems/An_Unsolvable_Problem_of_Elementary_Number_Theory_Church_1938.pdf)
@@ -85,6 +89,8 @@ The five state Busy Beaver champion: [link](https://bbchallenge.org/1RB1LC_1RC1R
 The BB(5) solution: https://github.com/ccz181078/Coq-BB5/tree/main
 
 Turing machine simulator: https://turingmachine.io/
+
+[The Goldbach Conjecture, Johan Härdig, 2020](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/Goldbach_Conjecture_Hardig_2020.pdf)
 
 BB(27) code - code for a 27-rule Turing machine that halts if — and only if — the Goldbach conjecture is false; github link [here](https://gist.github.com/anonymous/a64213f391339236c2fe31f8749a0df6)
 
