@@ -70,6 +70,8 @@
 
 The Busy Beaver challenge story: https://bbchallenge.org/story
 
+The five state Busy Beaver champion: [link](https://bbchallenge.org/1RB1LC_1RC1RB_1RD0LE_1LA1LD_1RZ0LA&w=250&ox=0.8)  
+
 The BB(5) solution: https://github.com/ccz181078/Coq-BB5/tree/main
 
 Turing machine simulator: https://turingmachine.io/
