@@ -65,3 +65,17 @@
 [The Mechanisation of Mathematics, Michael Beeson, 2004](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/The_Mechanization_of_Mathematics_Beeson_2004.pdf)
 
 [Hardness vs Randomness, Noam Nisan, Avi Wigderson, Hebrew University of Jerusalem, 1994](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/Hardness_vs_Randomness_Nisan_and_Wigderson_1994.pdf)
+
+### The Busy Beaver Challenge
+
+The Busy Beaver challenge story: https://bbchallenge.org/story
+
+The BB(5) solution: https://github.com/ccz181078/Coq-BB5/tree/main
+
+Turing machine simulator: https://turingmachine.io/
+
+### Coq resources
+
+[A Gentle Introduction to Type Classes and Relations in Coq, Pierre Casteran, Nov 3, 2016](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/coq/type_classes_tutorial_Casteran_2016.pdf)
+
+[Coq Reference Manual v8.4.pl2, April 4, 2013](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/coq/Coq_Reference_Manual_v8.4.pl2.pdf)
