@@ -94,7 +94,7 @@ Turing machine simulator: https://turingmachine.io/
 
 BB(27) code - code for a 27-rule Turing machine that halts if — and only if — the Goldbach conjecture is false; github link [here](https://gist.github.com/anonymous/a64213f391339236c2fe31f8749a0df6)
 
-    related paper: [The Goldbach Conjecture, Johan Härdig, 2020](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/Goldbach_Conjecture_Hardig_2020.pdf)
+related paper: [The Goldbach Conjecture, Johan Härdig, 2020](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/Goldbach_Conjecture_Hardig_2020.pdf)
 
 
 BB(744) code - code for 744-rule Turing machine that halts if and only if the Riemann hypothesis is false; github link [here](https://github.com/sorear/metamath-turing-machines/blob/master/riemann-matiyasevich-aaronson.nql)
