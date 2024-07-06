@@ -36,6 +36,8 @@
 
 [Computability and Unsolvability, M. Davis, 1956](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/Computability_and_Unsolvability_Martin_Davis_1956.pdf)
 
+[Theory of Recursive Functions and Effective Computability, Hartley Rogers, 1957](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/Hartley_Rogers_Theory_of_Recursive_Functions_and_Effective_Computability-The_MIT_Press_1987.pdf)
+
 ## Articles
 
 [An Unsolvable Problem of Elementary Number Theory, Alonzo Church, AJM, Vol. 52, No. 2, 1936](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/logic_systems/An_Unsolvable_Problem_of_Elementary_Number_Theory_Church_1938.pdf)
