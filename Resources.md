@@ -92,9 +92,14 @@ The BB(5) solution: https://github.com/ccz181078/Coq-BB5/tree/main
 
 Turing machine simulator: https://turingmachine.io/
 
-[The Goldbach Conjecture, Johan Härdig, 2020](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/Goldbach_Conjecture_Hardig_2020.pdf)
+BB(27) code - code for a 27-rule Turing machine that halts if — and only if — [the Goldbach conjecture](https://en.wikipedia.org/wiki/Goldbach%27s_conjecture) is false; github link [here](https://gist.github.com/anonymous/a64213f391339236c2fe31f8749a0df6)
 
-BB(27) code - code for a 27-rule Turing machine that halts if — and only if — the Goldbach conjecture is false; github link [here](https://gist.github.com/anonymous/a64213f391339236c2fe31f8749a0df6)
+related paper: [The Goldbach Conjecture, Johan Härdig, 2020](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/Goldbach_Conjecture_Hardig_2020.pdf)
+
+
+BB(744) code - code for 744-rule Turing machine that halts if and only if [the Riemann hypothesis](https://en.wikipedia.org/wiki/Riemann_hypothesis) is false; github link [here](https://github.com/sorear/metamath-turing-machines/blob/master/riemann-matiyasevich-aaronson.nql)
+
+[Problems in Number Theory from Busy Beaver competition, Pascal Michel, 2013](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/Problems_in_number_theory_from_busy_beaver_competition_Mitchel_2013.pdf)
 
 ### Coq resources
 
