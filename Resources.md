@@ -54,6 +54,10 @@
 
 [Three Models for the Description of Language, Noam Chomsky, MIT, 1956](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/ThreeModelsForTheDescriptionOfLanguageChomsky.pdf)
 
+[On Certain Formal Properties of Grammars, Noam Chomsky, MIT, 1959](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/OnCertainFormalPropertiesOfGrammarsChomsky1959.pdf)
+
+[The Algebraic Theory of Context-Free Grammars, Noam Chomsky, MIT, 1963](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/TheAlgebraicTheoryOfContextFreeLanguages_Chomsky_1963.pdf)
+
 [An Approach to Unified Theory of Automata, J. Hopcroft, J. Ullman, 1967](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/An_Approach_to_Unified_Theory_of_Automata_Hopcroft_Ullman_1967.pdf)
 
 [On General Purpose Unifying Automata, D.L. Szekely, Notre Dame Journal of Formal Logic, 1967](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/On_General_Purpose_Unifiying_Automata_Szekely_NDJFL_1967.pdf)
@@ -101,7 +105,7 @@ BB(744) code - code for 744-rule Turing machine that halts if and only if [the R
 
 [Problems in Number Theory from Busy Beaver competition, Pascal Michel, 2013](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/Problems_in_number_theory_from_busy_beaver_competition_Mitchel_2013.pdf)
 
-### Coq resources
+### Coq Language and resources
 
 [A Gentle Introduction to Type Classes and Relations in Coq, Pierre Casteran, Nov 3, 2016](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/coq/type_classes_tutorial_Casteran_2016.pdf)
 
