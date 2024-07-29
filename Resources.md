@@ -1,4 +1,4 @@
-# Resources on Computability, Automata, Logic Systems, Formal Grammars and Theory of Parsing
+# Resources on Computability, Automata, Logic Systems, Formal Grammars, Theorem Proving, and Theory of Parsing
 
 ## Books
 
