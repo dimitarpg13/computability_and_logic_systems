@@ -38,6 +38,8 @@
 
 [Theory of Recursive Functions and Effective Computability, Hartley Rogers, 1957](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/Hartley_Rogers_Theory_of_Recursive_Functions_and_Effective_Computability-The_MIT_Press_1987.pdf)
 
+[Lectures on Curry-Howard Isomorphism, Morten HB Sorensen, Pwel Urzyczyn, 2006](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/Lectures_on_the_curry-howard_isomorphism_Sorensen_2006.pdf)
+
 ## Articles
 
 [An Unsolvable Problem of Elementary Number Theory, Alonzo Church, AJM, Vol. 52, No. 2, 1936](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/logic_systems/An_Unsolvable_Problem_of_Elementary_Number_Theory_Church_1938.pdf)
