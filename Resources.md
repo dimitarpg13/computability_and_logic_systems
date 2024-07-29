@@ -128,3 +128,5 @@ BB(744) code - code for 744-rule Turing machine that halts if and only if [the R
 [A Gentle Introduction to Type Classes and Relations in Coq, Pierre Casteran, Nov 3, 2016](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/coq/type_classes_tutorial_Casteran_2016.pdf)
 
 [Coq Reference Manual v8.4.pl2, April 4, 2013](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/coq/Coq_Reference_Manual_v8.4.pl2.pdf)
+
+[Formalizing 100 theorems in Coq](https://madiot.fr/coq100/)
