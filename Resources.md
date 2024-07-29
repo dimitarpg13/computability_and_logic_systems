@@ -38,7 +38,7 @@
 
 [Theory of Recursive Functions and Effective Computability, Hartley Rogers, 1957](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/Hartley_Rogers_Theory_of_Recursive_Functions_and_Effective_Computability-The_MIT_Press_1987.pdf)
 
-[Lectures on Curry-Howard Isomorphism, Morten HB Sorensen, Pawel Urzyczyn, 2006](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/Lectures_on_the_curry-howard_isomorphism_Sorensen_2006.pdf)
+[Lectures on Curry-Howard Isomorphism, Morten HB Sorensen, Pawel Urzyczyn, Elsevier, 2006](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/2006_Sorensen_Urzyczyn_Lectures_on_the_Curry-Howard_Isomorphism.pdf)
 
 ## Articles
 
@@ -111,7 +111,9 @@ BB(744) code - code for 744-rule Turing machine that halts if and only if [the R
 
 [Functionality in Combinatory Logic, Haskell P. Curry, Penn State College, 1934](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/Functionality_in_Combinatory_Logic_HP_Curry_1934.pdf)
 
-[Lectures on Curry-Howard Isomorphism, Morten HB Sorensen, Pawel Urzyczyn, 2006](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/Lectures_on_the_curry-howard_isomorphism_Sorensen_2006.pdf)
+[Lectures on Curry-Howard Isomorphism, Morten HB Sorensen, Pawel Urzyczyn, 1997-1998](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/Lectures_on_the_curry-howard_isomorphism_Sorensen_1998.pdf)
+
+[Lectures on Curry-Howard Isomorphism, Morten HB Sorensen, Pawel Urzyczyn, Elsevier, 2006](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/2006_Sorensen_Urzyczyn_Lectures_on_the_Curry-Howard_Isomorphism.pdf)
 
 ### Coq Language and resources
 
