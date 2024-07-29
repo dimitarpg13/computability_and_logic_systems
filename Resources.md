@@ -20,6 +20,12 @@
 
 [Introduction to Mathematical Logic, Elliott Mendelsohn, 6th edition, 2015](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/logic_systems/Mendelson_Introduction_to_Mathematical_Logic_6th_Ed_2015.pdf)
 
+[Foundations of Mathematical Logic, Haskell B. Curry, Penn State, 1977](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/foundations-of-mathematical-logic_Haskell_Curry_1977.pdf)
+
+[Classical Mathematical Logic: The Semantic Foundations of Logic, Richard L. Epstein, Princeton U., 2011](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/classical-mathematical-logic-the-semantic-foundations-of-logic-course-book-2011.pdf)
+
+[Mathematical Logic, Y.U. Ershov, E.A. Palyutin, 1984](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/mathematical-logic-Ershov_1984.pdf)
+
 [Computability and Logic, Fifth Edition, George Boolos, J. Burgess, R. Jeffrey, 2007](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/George_S_Boolos_John_P_Burgess_Richard_C_Jeffrey_Computability_and_Logic_5Ed_Cambridge_2007.pdf)
 
 [Programming Language Theory and its Implementation, Michael J.C. Gordon, 1998](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/Programming_Language_Theory_Gordon_1998.pdf)
