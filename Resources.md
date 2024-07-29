@@ -130,3 +130,13 @@ BB(744) code - code for 744-rule Turing machine that halts if and only if [the R
 [Coq Reference Manual v8.4.pl2, April 4, 2013](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/coq/Coq_Reference_Manual_v8.4.pl2.pdf)
 
 [Formalizing 100 theorems in Coq](https://madiot.fr/coq100/)
+
+### Lean Theorem Prover, Language and Resources
+
+[Lean Language Publications](https://lean-lang.org/publications/)
+
+[The Mechanics of Proof](https://hrmacbeth.github.io/math2001/)
+
+related github repo: https://github.com/hrmacbeth/math2001
+
+[Theorem Proving in Lean, Apr 25th, 2023](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/lean/theorem_proving_in_lean_Apr-25-2023.pdf)
