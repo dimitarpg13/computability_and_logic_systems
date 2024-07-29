@@ -107,6 +107,12 @@ BB(744) code - code for 744-rule Turing machine that halts if and only if [the R
 
 [Problems in Number Theory from Busy Beaver competition, Pascal Michel, 2013](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/Problems_in_number_theory_from_busy_beaver_competition_Mitchel_2013.pdf)
 
+### The Curry-Howard Isomorphism
+
+[Functionality in Combinatory Logic, Haskell P. Curry, Penn State College, 1934](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/Functionality_in_Combinatory_Logic_HP_Curry_1934.pdf)
+
+[Lectures on Curry-Howard Isomorphism, Morten HB Sorensen, Pawel Urzyczyn, 2006](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/Lectures_on_the_curry-howard_isomorphism_Sorensen_2006.pdf)
+
 ### Coq Language and resources
 
 [A Gentle Introduction to Type Classes and Relations in Coq, Pierre Casteran, Nov 3, 2016](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/coq/type_classes_tutorial_Casteran_2016.pdf)
