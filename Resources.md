@@ -140,3 +140,5 @@ BB(744) code - code for 744-rule Turing machine that halts if and only if [the R
 related github repo: https://github.com/hrmacbeth/math2001
 
 [Theorem Proving in Lean, Apr 25th, 2023](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/lean/theorem_proving_in_lean_Apr-25-2023.pdf)
+
+[Lean 4: an extensible proof assistant and programming language, Leonardo de Moura, 2023](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/lean/lean_itp_summer_school_2023.pdf)
