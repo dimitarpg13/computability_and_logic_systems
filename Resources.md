@@ -142,3 +142,7 @@ related github repo: https://github.com/hrmacbeth/math2001
 [Theorem Proving in Lean, Apr 25th, 2023](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/lean/theorem_proving_in_lean_Apr-25-2023.pdf)
 
 [Lean 4: an extensible proof assistant and programming language, Leonardo de Moura, 2023](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/lean/lean_itp_summer_school_2023.pdf)
+
+### Emergence and Automata Theory
+
+[Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction, Blaise Agüera y Arcas et al, Google, 2024](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/emergence/Computational_Life-How_Well-formed_Self-replicating_Programs_Emerge_from_Simple_Interaction_Blaise_Aguiera_y_Arcas_Google_2024.pdf)
