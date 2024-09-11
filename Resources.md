@@ -86,6 +86,8 @@
 
 [Hardness vs Randomness, Noam Nisan, Avi Wigderson, Hebrew University of Jerusalem, 1994](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/Hardness_vs_Randomness_Nisan_and_Wigderson_1994.pdf)
 
+[Kolmogorov Complexity and its Applications,  Ming Li, Paul Vitanyi, 1990](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/kolmogorov_complexity/Kolmogorov_Complexity_and_its_Applications_Li_1990.pdf)
+
 ### The Halting Problem and The Busy Beaver Challenge
 
 [The Halting Problem, Wikipedia](https://en.wikipedia.org/wiki/Halting_problem) 
