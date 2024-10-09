@@ -46,6 +46,8 @@
 
 [Lectures on Curry-Howard Isomorphism, Morten HB Sorensen, Pawel Urzyczyn, Elsevier, 2006](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/2006_Sorensen_Urzyczyn_Lectures_on_the_Curry-Howard_Isomorphism.pdf)
 
+[An Introduction to Kolmogorov Complexity and its Applications, Ming Li, Paul Vitanyi, Fourth Edition, 2019](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/introduction-to-kolmogorov-complexity-and-its-applications-4th-ed_Li_2019.pdf)
+
 ## Articles
 
 [An Unsolvable Problem of Elementary Number Theory, Alonzo Church, AJM, Vol. 52, No. 2, 1936](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/logic_systems/An_Unsolvable_Problem_of_Elementary_Number_Theory_Church_1938.pdf)
@@ -83,6 +85,8 @@
 [The Mechanisation of Mathematics, Michael Beeson, 2004](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/The_Mechanization_of_Mathematics_Beeson_2004.pdf)
 
 [Hardness vs Randomness, Noam Nisan, Avi Wigderson, Hebrew University of Jerusalem, 1994](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/Hardness_vs_Randomness_Nisan_and_Wigderson_1994.pdf)
+
+[Kolmogorov Complexity and its Applications,  Ming Li, Paul Vitanyi, 1990](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/kolmogorov_complexity/Kolmogorov_Complexity_and_its_Applications_Li_1990.pdf)
 
 ### The Halting Problem and The Busy Beaver Challenge
 
