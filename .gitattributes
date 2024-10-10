@@ -47,3 +47,8 @@ literature/lean/lean_itp_summer_school_2023.pdf filter=lfs diff=lfs merge=lfs -t
 literature/articles/emergence/Computational_Life-How_Well-formed_Self-replicating_Programs_Emerge_from_Simple_Interaction_Blaise_Aguiera_y_Arcas_Google_2024.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/kolmogorov_complexity/Kolmogorov_Complexity_and_its_Applications_Li_1990.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/introduction-to-kolmogorov-complexity-and-its-applications-4th-ed_Li_2019.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/zero_knowledge_proofs/The_knowledge_complexity_of_interactive_proof-systems_Goldwasser_1985.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/zero_knowledge_proofs/Proofs_that_yield_nothing_but_their_validity_or_all_languages_in_NP_have_zero-knowledge_proof_systems_Goldreich_1991.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/zero_knowledge_proofs/Multi-prover_interactive_proofs-how_to_remove_intractability_assumptions_Ben-Or_1988.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/zero_knowledge_proofs/Non-interactive_zero-knowledge_and_its_applications_Blum_1988.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/zero_knowledge_proofs/Experimental_relativistic_zero-knowledge_proofs_Alikhani_2022.pdf filter=lfs diff=lfs merge=lfs -text
