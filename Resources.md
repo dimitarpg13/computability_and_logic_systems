@@ -88,6 +88,12 @@
 
 [Kolmogorov Complexity and its Applications,  Ming Li, Paul Vitanyi, 1990](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/kolmogorov_complexity/Kolmogorov_Complexity_and_its_Applications_Li_1990.pdf)
 
+### Cryptography and Complexity
+
+[A Personal View of Average-Case Complexity, Russel Impagliazzo, 1995](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/complexity/A_Personal_View_of_Average-Case_Complexity_Impagliazzo_1995.pdf)
+
+[On One-Way FUnctions and Kolmogorov Complexity, Yanyi Liu, Rafael Pass, Cornell U., 2020](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/complexity/On_One-way_Functions_and_Kolmogorov_Complexity_Liu_2020.pdf)
+
 ### The Halting Problem and The Busy Beaver Challenge
 
 [The Halting Problem, Wikipedia](https://en.wikipedia.org/wiki/Halting_problem) 
@@ -116,6 +122,22 @@ related paper: [The Goldbach Conjecture, Johan Härdig, 2020](https://github.com
 BB(744) code - code for 744-rule Turing machine that halts if and only if [the Riemann hypothesis](https://en.wikipedia.org/wiki/Riemann_hypothesis) is false; github link [here](https://github.com/sorear/metamath-turing-machines/blob/master/riemann-matiyasevich-aaronson.nql)
 
 [Problems in Number Theory from Busy Beaver competition, Pascal Michel, 2013](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/Problems_in_number_theory_from_busy_beaver_competition_Mitchel_2013.pdf)
+
+### Zero-knowledge Proofs and Probabilistically Checkable Proofs
+
+[Perfect Zero-Knowledge PCPs for #P, Tom Gur, Jack O'Connor, Nicholas Spooner, 2024](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/zero_knowledge_proofs/Perfect_Zero-Knowledge_PCPs_for_sharpP_Gur_2024.pdf)
+
+[How Do You Prove a Secret, S. Han, Quanta, 2022](https://www.quantamagazine.org/how-to-prove-you-know-a-secret-without-giving-it-away-20221011/)
+
+[The Knowledge Complexity of Interactive Proof Systems, Shafi Goldwasser, Silvio Micaly, Charles Rackoff, U. of Toronto, 1985](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/zero_knowledge_proofs/The_knowledge_complexity_of_interactive_proof-systems_Goldwasser_1985.pdf)
+
+[Proofs that Yield Nothing But Their Validity All Languages in NP Have Zero-Knowledge Proof Systems, Oded Goldreich, Silvio Micali, Avi Wigderson, 1991](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/zero_knowledge_proofs/Proofs_that_yield_nothing_but_their_validity_or_all_languages_in_NP_have_zero-knowledge_proof_systems_Goldreich_1991.pdf)
+
+[Multi-Prover Interactive Proofs: How to Remove Intractability Assumptions, Michael Ben-Or, Shafi GOldwasser, Joe Kilian,  Avi Wigderson, 1988](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/zero_knowledge_proofs/Multi-prover_interactive_proofs-how_to_remove_intractability_assumptions_Ben-Or_1988.pdf)
+
+[Non-Interactive Zero-Knowledge and its Applications (Extended Abstract), Manuel Blum, Paul Feldman, Silivo Micali, 1988](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/zero_knowledge_proofs/Non-interactive_zero-knowledge_and_its_applications_Blum_1988.pdf)
+
+[Experimental Relativistic Zero-Knowledge Proofs, Pouriya Alikhani et al, 2021](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/zero_knowledge_proofs/Experimental_relativistic_zero-knowledge_proofs_Alikhani_2022.pdf)
 
 ### The Curry-Howard Isomorphism
 
