@@ -172,3 +172,7 @@ related github repo: https://github.com/hrmacbeth/math2001
 ### Emergence and Automata Theory
 
 [Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction, Blaise Agüera y Arcas et al, Google, 2024](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/emergence/Computational_Life-How_Well-formed_Self-replicating_Programs_Emerge_from_Simple_Interaction_Blaise_Aguiera_y_Arcas_Google_2024.pdf)
+
+### Optimality Proofs and Conjectures
+
+[Universal Optimality of Dijkstra via Beyond-Worst-Case Heaps, Bernhard Haeupler et al, 2024](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/optimality/Universal_Optimality_of_Dijkstra_via_Beyond-Worst-Case_Heaps_Haeupler_2024.pdf)
