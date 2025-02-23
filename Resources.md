@@ -179,4 +179,4 @@ related github repo: https://github.com/hrmacbeth/math2001
 
 ### Machine-Assisted Formal Proofs
 
-[Terence Tao - Machine-Assisted Proofs (February 19, 2025)](https://youtu.be/5ZIIGLiQWNM?si=b5F1kAFGEZu-0gmx)
+[Terence Tao - Machine-Assisted Proofs, Presidential Lecture, Simons Foundation, February 19, 2025](https://youtu.be/5ZIIGLiQWNM?si=b5F1kAFGEZu-0gmx)
