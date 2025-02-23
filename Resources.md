@@ -176,3 +176,7 @@ related github repo: https://github.com/hrmacbeth/math2001
 ### Optimality Proofs and Conjectures
 
 [Universal Optimality of Dijkstra via Beyond-Worst-Case Heaps, Bernhard Haeupler et al, 2024](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/optimality/Universal_Optimality_of_Dijkstra_via_Beyond-Worst-Case_Heaps_Haeupler_2024.pdf)
+
+### Machine-Assisted Formal Proofs
+
+[Terence Tao - Machine-Assisted Proofs (February 19, 2025)](https://youtu.be/5ZIIGLiQWNM?si=b5F1kAFGEZu-0gmx)
