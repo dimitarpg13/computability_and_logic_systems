@@ -94,6 +94,10 @@
 
 [On One-Way FUnctions and Kolmogorov Complexity, Yanyi Liu, Rafael Pass, Cornell U., 2020](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/complexity/On_One-way_Functions_and_Kolmogorov_Complexity_Liu_2020.pdf)
 
+### The P versus PSPACE problem
+
+[Simulating Time With Square-Root Space, Ryan Williams, MIT, 2025](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/complexity/Simulating_Time_With_Square-Root_Space_Williams_MIT_2025.pdf)
+
 ### The Halting Problem and The Busy Beaver Challenge
 
 [The Halting Problem, Wikipedia](https://en.wikipedia.org/wiki/Halting_problem) 
