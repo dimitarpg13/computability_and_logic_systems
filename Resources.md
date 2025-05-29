@@ -96,7 +96,15 @@
 
 ### The P versus PSPACE problem
 
+[Non-Uniform ACC Circuit Lower Bounds, Ryan Williams, IBM Almaden Research Center, 2010](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/complexity/Non-Uniform_ACC_Circuit_Lower_Bounds_Williams_2010.pdf)
+
 [Simulating Time With Square-Root Space, Ryan Williams, MIT, 2025](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/complexity/Simulating_Time_With_Square-Root_Space_Williams_MIT_2025.pdf)
+
+### Tree Evaluation problem
+
+[Pebbles and Branching Programs for Tree Evaluation, Stephen Cook et al, 2010](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/tree_evaluation/Pebbles_and_Branching_Programs_for_Tree_Evaluation_Cook_2010.pdf)
+
+[Tree Evaluation Is in Space 𝑂 (log 𝑛 · log log 𝑛), James Cook, Jan Merz, 2024](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/tree_evaluation/Tree_Evaluation_Is_in_Space_O_log_n_log_log_n_Cook_2024.pdf)
 
 ### The Halting Problem and The Busy Beaver Challenge
 
