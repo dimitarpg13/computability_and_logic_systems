@@ -192,3 +192,7 @@ related github repo: https://github.com/hrmacbeth/math2001
 ### Machine-Assisted Formal Proofs
 
 [Terence Tao - Machine-Assisted Proofs, Presidential Lecture, Simons Foundation, February 19, 2025](https://youtu.be/5ZIIGLiQWNM?si=b5F1kAFGEZu-0gmx)
+
+### Theory of Explainability of Deep Learning Networks
+
+[Mathematical Foundations of Explainability: A Unified Theory Across Dimensions and Domains, Miquel Noguer i Alonso, AIFI, 2025](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/explainability/Mathematical_Foundations_of_Explainability-A_Unified_Theory_Across_Dimensions_and_Domains_Alonso_2025.pdf)
