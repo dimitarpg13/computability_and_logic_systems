@@ -196,3 +196,8 @@ related github repo: https://github.com/hrmacbeth/math2001
 ### Theory of Explainability of Deep Learning Networks
 
 [Mathematical Foundations of Explainability: A Unified Theory Across Dimensions and Domains, Miquel Noguer i Alonso, AIFI, 2025](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/explainability/Mathematical_Foundations_of_Explainability-A_Unified_Theory_Across_Dimensions_and_Domains_Alonso_2025.pdf)
+
+
+## Videos
+
+[A Dogged Pursuit for Satisfaction, Ryan Williams, Institute for Advanced Study, Nov 3, 2025](https://www.youtube.com/watch?v=aRX7ggJvMSA)
