@@ -161,6 +161,12 @@ BB(744) code - code for 744-rule Turing machine that halts if and only if [the R
 
 [Lectures on Curry-Howard Isomorphism, Morten HB Sorensen, Pawel Urzyczyn, Elsevier, 2006](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/2006_Sorensen_Urzyczyn_Lectures_on_the_Curry-Howard_Isomorphism.pdf)
 
+### Computational Irreducibility
+
+[What is Computational Irreducibilty? Curt Jaimungal and Jonathan Gorard, 2025 (youtube video)](https://www.youtube.com/watch?v=WTus2fOTFNw)
+
+[A Functorial Perspective on (Multi)computational Irreducibility, Jonathan Gorard, U of Cambridge, 2022](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/computational_irreducibility/A_Functorial_Perspective_on_Multi-computational_Irreducibility_Gorrard_2022.pdf)
+
 ### Coq Language and resources
 
 [A Gentle Introduction to Type Classes and Relations in Coq, Pierre Casteran, Nov 3, 2016](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/coq/type_classes_tutorial_Casteran_2016.pdf)
