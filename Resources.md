@@ -48,6 +48,8 @@
 
 [An Introduction to Kolmogorov Complexity and its Applications, Ming Li, Paul Vitanyi, Fourth Edition, 2019](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/introduction-to-kolmogorov-complexity-and-its-applications-4th-ed_Li_2019.pdf)
 
+[Kolmogorov Complexity and Algorithmic Randomness, Alexander Shen, Vladimir Andreevich Uspensky, Nikolay Vereshchagin, 2019](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/books/Kolmogorov_Complexity_and_Algorithmic_Randomness_Shen_2019.pdf)
+
 ## Articles
 
 [An Unsolvable Problem of Elementary Number Theory, Alonzo Church, AJM, Vol. 52, No. 2, 1936](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/literature/articles/logic_systems/An_Unsolvable_Problem_of_Elementary_Number_Theory_Church_1938.pdf)
