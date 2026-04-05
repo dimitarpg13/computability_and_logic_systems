@@ -1,0 +1,3 @@
+[submodule "theorem_provers"]
+	path = theorem_provers
+	url = https://github.com/dimitarpg13/theorem_provers
